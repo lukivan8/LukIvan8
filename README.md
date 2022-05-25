@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @LukIvan8
-- 👀 I’m interested in openCV and machine learning
-- 🌱 I’m currently learning openCV basics and some botting
-- 💞️ I’m looking to collaborate on building automation project or research
+- 👀 I’m interested in openCV and Django
+- 🌱 I’m currently learning backend development
+- 💞️ I’m looking to collaborate on building automation project or web apps
 - 📫 How to reach me: lukivan888@gmail.com
 - 📈 I'm new so I can only grow
 <!---
