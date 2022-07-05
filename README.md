@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @LukIvan8
-- 👀 I’m interested in openCV and Django
+- 👀 I’m interested in Spring framework 
 - 🌱 I’m currently learning backend development
 - 💞️ I’m looking to collaborate on building automation project or web apps
 - 📫 How to reach me: lukivan888@gmail.com
